@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SolarHelper</string>
+    <string name="login_btn">Log in</string>
+    <string name="logout_btn">Log out</string>
+    <string name="battery">Battery</string>
+    <string name="converter">Converter</string>
+    <string name="solar">Solar</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="ap">AP</string>
+    <string name="net">NET</string>
+    <string name="charge">Charging</string>
+    <!--电池-->
+    <string name="disCharge">DisCharging</string>
+    <string name="offline">Offline</string>
+    <string name="volt">Volt</string>
+    <string name="ampere">Ampere</string>
+    <string name="bat_capacity">Battery Capacity</string>
+
+    <!--光伏-->
+    <string name="pv1">PV1 Input</string>
+    <string name="pv2">PV2 Input</string>
+    <string name="Working">Working</string>
+    <string name="generating_capacity">Generation</string>
+</resources>

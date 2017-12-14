@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_head_left_margin">8dp</dimen>
+    <dimen name="navigation_head_top_margin">8dp</dimen>
+    <dimen name="toolbar_padding_top">0dp</dimen>
+    <dimen name="float_action_button_margin">16dp</dimen>
+    <dimen name="_25dp">25dp</dimen>
+    <dimen name="cardview_corner">5dp</dimen>
+</resources>
